@@ -11,7 +11,7 @@ Open `index.html` in a browser to view the invitation.
 - Prenup photos: replace the image links in the `Prenup Photos` section with your real photo files or URLs.
 - Guest list and pax: edit `WEDDING_CONFIG.guests` in `script.js`.
 - Google Form link: replace `googleFormUrl` in `script.js`.
-- Background music: add an MP3 file named `[David Pomeranz - Got To Believe In Magic (Khel Pangilinan)  BRS Episode 13 Full Performance.mp3](https://github.com/user-attachments/files/29458464/David.Pomeranz.-.Got.To.Believe.In.Magic.Khel.Pangilinan.BRS.Episode.13.Full.Performance.mp3)` inside the `assets` folder.
+- Background music: add an MP3 file named `David Pomeranz - Got To Believe In Magic (Khel Pangilinan)  BRS Episode 13 Full Performance` inside the `assets` folder.
 
 ## Google Form Prefill
 

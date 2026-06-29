@@ -5,10 +5,10 @@ const WEDDING_CONFIG = {
     pax: "",
   },
   guests: [
-    { name: "Juan Dela Cruz", pax: 2 },
-    { name: "Maria Santos", pax: 1 },
-    { name: "The Reyes Family", pax: 4 },
-    { name: "Ana and Mark Villanueva", pax: 2 },
+    { name: "Christine Carlos", pax: 2 },
+    { name: "Mitch Dee Tan", pax: 1 },
+    { name: "Lyndon Las", pax: 4 },
+    { name: "Ohana Supplier", pax: 2 },
   ],
 };
 
@@ -95,6 +95,6 @@ musicToggle.addEventListener("click", async () => {
       musicToggle.setAttribute("aria-label", "Play background music");
     }
   } catch (error) {
-    result.textContent = "Add your music file at assets/wedding-music.mp3, then tap play again.";
+    result.textContent = "Add your music file at assets/Palagi - Tj Monterde  Violin Cover by BOJO, then tap play again.";
   }
 });
